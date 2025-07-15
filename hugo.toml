@@ -1,0 +1,69 @@
+baseURL = 'https://superacion.www-haosp.org/'
+languageCode = 'es'
+title = 'Blog Superación Personal'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+defaultContentLanguage = 'es'
+hasCJKLanguage = false
+
+[params]
+  author = 'Hector Augusto Ospina A.'
+  description = 'Reflexiones y herramientas para el desarrollo personal'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  DateFormat = "02 Jan 2006"
+  hideFooter = false
+  disableScrollToTop = false
+  ShowTableOfContents = true
+
+[params.homeInfoParams]
+  Title = "Bienvenido a Superación Personal"
+  Content = "Exploraciones, prácticas y reflexiones para vivir de forma más consciente."
+
+[menu]
+
+  [[menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Categorías"
+  url = "/categories/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Sobre el proyecto"
+  url = "/about/"
+  weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[params.search]
+  enabled = true
+  inputPosition = "navbar"
+  outputPath = "search"
+
+favicon = "superacionpersonal.png"
+
+[params.logo]
+  src = "superacionpersonal.png"
+  alt = "Logo superación personal"
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
