@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Principios on Blog Superación Personal</title>
+    <link>http://localhost:1313/categories/principios/</link>
+    <description>Recent content in Principios on Blog Superación Personal</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/principios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La relajación</title>
+      <link>http://localhost:1313/posts/la-relajaci%C3%B3n/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/la-relajaci%C3%B3n/</guid>
+      <description>&lt;h1 id=&#34;la-relajación&#34;&gt;La relajación&lt;/h1&gt;
+&lt;p&gt;La relajación es lo opuesto a la tensión; la tensión o el estrés provoca la contracción de los músculos, lo cual a su vez ocasiona estrechamiento de algunas estructuras como los vasos arteriales de mediano calibre, llevando como consecuencia a disminuir el riego arterial de los tejidos y células.&lt;/p&gt;
+&lt;p&gt;Por su parte, la relajación ocasiona el efecto contrario, es decir, permite que las arterias lleven fluido sanguíneo con mayor facilidad a los vasos arteriales de menor calibre haciendo una mejor irrigación periférica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El principio mental</title>
+      <link>http://localhost:1313/posts/principio--mentalismo/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/principio--mentalismo/</guid>
+      <description>&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
+&lt;p&gt;El principio del mentalismo plantea la posibilidad controversial de &amp;ldquo;Tener mente&amp;rdquo; y de ser ella la determinadora de la realidad del universo, la naturaleza y el hombre.&lt;/p&gt;
+&lt;h2 id=&#34;el-ser-pensante&#34;&gt;El ser pensante&lt;/h2&gt;
+&lt;p&gt;El ser humano desde el punto de vista biológico es una célula que cumple funciones vitales, nacer, crecer, reproducirse y morir; sin embargo, su naturaleza va mas alla, tiene la capacidad de pensar, imaginar y crear; esta capacidad es inherente a lo que llamamos mente.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

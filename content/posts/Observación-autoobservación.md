@@ -4,6 +4,8 @@ date: 2025-07-14
 categories: ["Autoconocimiento"]
 tags: ["Metacognición", "Autoobservación"]
 draft: false
+showToc: true
+toc: true
 ---
 ## Observación
 Para observar utilizamos los órganos de los sentidos, a saber: vista, oido, olfato, gusto y tacto; la observacón nos permite darnos cuenta del entorno y funcionar de manera adecuada en él. Hacer uso de los sentidos es algo natural, lo cual logra el ser humano en la medida que logra su madurez neurológica, aproximadamente hacia los siete años de edad, en condiciones normales. 
