@@ -3,11 +3,6 @@
   background: #fffd !important;
 }
 
-
-.post-single {
-  border: 5px solid red !important;
-}
-
 .layout-split .post-body {
   display: flex;
   flex-direction: row;
