@@ -2,24 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Blog Superación Personal</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://superacion.www-haosp.org/categories/</link>
     <description>Recent content in Categories on Blog Superación Personal</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Aug 2025 18:41:39 -0500</lastBuildDate>
+    <atom:link href="https://superacion.www-haosp.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Autoconocimiento</title>
-      <link>http://localhost:1313/categories/autoconocimiento/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/autoconocimiento/</guid>
-      <description></description>
+      <title>Ser Social</title>
+      <link>https://superacion.www-haosp.org/categories/ser-social/</link>
+      <pubDate>Sat, 16 Aug 2025 18:41:39 -0500</pubDate>
+      <guid>https://superacion.www-haosp.org/categories/ser-social/</guid>
+      <description>&lt;p&gt;La expresión social es el máximo exponente de la condición del individuo, a la vez, es el escenario en el que este puede aportar y recibir los elementos para su superación y la superación de la sociedad; la una inherente a la otra.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sexualidad Humana</title>
+      <link>https://superacion.www-haosp.org/categories/sexualidad-humana/</link>
+      <pubDate>Sat, 16 Aug 2025 18:41:12 -0500</pubDate>
+      <guid>https://superacion.www-haosp.org/categories/sexualidad-humana/</guid>
+      <description>&lt;p&gt;Es imperativo comprender la diferencia entre sexo y sexualidad y la potencialidad que tienen la una y la otra para elevar la calidad del ser humano y la sociedad.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autoconciencia</title>
+      <link>https://superacion.www-haosp.org/categories/autoconciencia/</link>
+      <pubDate>Sat, 16 Aug 2025 18:40:28 -0500</pubDate>
+      <guid>https://superacion.www-haosp.org/categories/autoconciencia/</guid>
+      <description>&lt;p&gt;El conocimiento de si mismo implica la comprensión de la estructura y la función corporal, la esfera mental en el proceso del pensamiento, las emociones y las acciones determinadas por los anteriores factores.&lt;/p&gt;
+&lt;p&gt;Es una construcción colectiva, interdisciplinar y transdiciplinar que, sin embargo, debe ser abordada de manera individual por medio de estrategias como la auto-observación, la reflexión, la autocrítica que pertenecen a la esfera de la metacognición.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principios</title>
-      <link>http://localhost:1313/categories/principios/</link>
+      <link>https://superacion.www-haosp.org/categories/principios/</link>
+      <pubDate>Sat, 16 Aug 2025 18:38:46 -0500</pubDate>
+      <guid>https://superacion.www-haosp.org/categories/principios/</guid>
+      <description>&lt;p&gt;Reflexiones técnicas y científicas sobre los siete principios del Kybalion&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Autoconocimiento</title>
+      <link>https://superacion.www-haosp.org/categories/autoconocimiento/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/principios/</guid>
+      <guid>https://superacion.www-haosp.org/categories/autoconocimiento/</guid>
       <description></description>
     </item>
   </channel>

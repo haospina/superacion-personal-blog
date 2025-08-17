@@ -1,0 +1,40 @@
+<section class="categories-grid">
+  <h2 class="section-title">Explora por Categoría</h2>
+  <div class="grid">
+    {{ range .Site.Taxonomies.categories }}
+      <div class="card">
+        <a href="{{ .Page.Permalink }}">
+          <div class="icon">📚</div>
+          <h3>{{ .Page.Title }}</h3>
+          <p>{{ .Page.Params.description }}</p>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+<style>
+.categories-grid {
+  padding: 2rem;
+  text-align: center;
+}
+.categories-grid .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+.categories-grid .card {
+  background: var(--entry);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease-in-out;
+}
+.categories-grid .card:hover {
+  transform: translateY(-5px);
+}
+.categories-grid .icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+</style>

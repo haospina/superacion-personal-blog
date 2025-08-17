@@ -2,21 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mentalismo on Blog Superación Personal</title>
-    <link>http://localhost:1313/tags/mentalismo/</link>
+    <link>https://superacion.www-haosp.org/tags/mentalismo/</link>
     <description>Recent content in Mentalismo on Blog Superación Personal</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>es</language>
     <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mentalismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://superacion.www-haosp.org/tags/mentalismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El principio mental</title>
-      <link>http://localhost:1313/posts/principio--mentalismo/</link>
+      <link>https://superacion.www-haosp.org/posts/principio-mentalismo/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/principio--mentalismo/</guid>
-      <description>&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;
-&lt;p&gt;El principio del mentalismo plantea la posibilidad controversial de &amp;ldquo;Tener mente&amp;rdquo; y de ser ella la determinadora de la realidad del universo, la naturaleza y el hombre.&lt;/p&gt;
-&lt;h2 id=&#34;el-ser-pensante&#34;&gt;El ser pensante&lt;/h2&gt;
-&lt;p&gt;El ser humano desde el punto de vista biológico es una célula que cumple funciones vitales, nacer, crecer, reproducirse y morir; sin embargo, su naturaleza va mas alla, tiene la capacidad de pensar, imaginar y crear; esta capacidad es inherente a lo que llamamos mente.&lt;/p&gt;</description>
+      <guid>https://superacion.www-haosp.org/posts/principio-mentalismo/</guid>
+      <description>&lt;h1 id=&#34;el-principio-del-mentalismo-ciencia-y-cultura-de-una-realidad-en-construcción-permanente&#34;&gt;El Principio del Mentalismo: Ciencia y cultura de una realidad en construcción permanente&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;El TODO es Mente; el universo es mental.&amp;rdquo;&lt;br&gt;
+— Los Tres Iniciados, &amp;ldquo;El Kybalión&amp;rdquo; (1908/1995)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;El primero de los principios enunciados por &lt;em&gt;El Kybalión&lt;/em&gt;, conocido como el &lt;strong&gt;Principio del Mentalismo&lt;/strong&gt;, sostiene que la mente es la sustancia fundamental del universo, no solo como facultad del pensamiento individual, sino como la base de toda existencia: todo lo que vemos, tocamos y experimentamos sería, en último término, una manifestación mental (Los Tres Iniciados, 1995).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

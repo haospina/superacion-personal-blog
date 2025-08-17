@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main class="main">
+  {{ .Content }}
+
+  <section class="categories">
+    <h2>Categorías</h2>
+
+    {{/* Lista personalizada en el orden deseado */}}
+    {{ $ordered := slice "principios" "autoconocimiento" "sexualidad-humana" "ser-social" }}
+
+    <ul>
+      {{ range $cat := $ordered }}
+        {{ with index .Site.Taxonomies.categories $cat }}
+          <li>
+            <a href="{{ "/categories/" | relURL }}{{ $cat | urlize }}">
+              {{ replace $cat "-" " " | title }} ({{ len . }})
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+
+  </section>
+</main>
+{{ end }}

@@ -1,14 +1,39 @@
 ---
 title: "Inicio"
-layout: "home"
 ---
 
-Bienvenido al blog de **Superación Personal**.
+## Bienvenido al blog de Superación Personal
 
-Aquí encontrarás contenidos para el crecimiento humano, organizados por temas. Haz clic para explorar:
+Explora los contenidos por categoría:
 
-- 🧠 [Principios](./categories/principios/)
-- 🧘‍♂️ [Técnicas y prácticas](./categories/técnicas-y-prácticas/)
-- 💭 [Autoconocimiento](./categories/autoconocimiento/)
-- 💓 [Cuerpo y expresión](./categories/cuerpo-y-expresión/)
-- ✨ [Vida espiritual y social](./categories/vida-social-y-espiritual/)
+<div class="category-grid">
+
+<div class="category-card">
+  <a href="/categories/principios/">
+    <img src="/icons/principios.svg" alt="Principios" />
+    <span>Principios</span>
+  </a>
+</div>
+
+<div class="category-card">
+  <a href="/categories/autoconocimiento/">
+    <img src="/icons/autoconocimiento.svg" alt="Autoconocimiento" />
+    <span>Autoconocimiento</span>
+  </a>
+</div>
+
+<div class="category-card">
+  <a href="/categories/sexualidad-humana/">
+    <img src="/icons/sexualidad.svg" alt="Sexualidad Humana" />
+    <span>Sexualidad Humana</span>
+  </a>
+</div>
+
+<div class="category-card">
+  <a href="/categories/ser-social/">
+    <img src="/icons/social.svg" alt="Ser Social" />
+    <span>Ser Social</span>
+  </a>
+</div>
+
+</div>
