@@ -12,3 +12,4 @@ Este es un espacio para la reflexión sobre la vida, la sociedad en que vimimos 
 ### contacto
 
 haoa
+

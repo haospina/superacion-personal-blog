@@ -27,3 +27,4 @@ Sentarse o acostarse de manera cómoda, cerrar los ojos, hacer tres respiracione
 ### Comparte tu experiencia
 
 Cuéntanos cómo te sentiste con el ejercicio
+

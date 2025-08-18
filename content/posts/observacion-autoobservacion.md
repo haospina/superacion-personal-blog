@@ -19,3 +19,4 @@ La metacognición es el conocimiento del sujeto que conoce (cita); la autoobserv
 Sentarse o acostarse de manera cómoda, cerrar los ojos, hacer tres respiraciones profundas, dirigir la atención de manera ordenada a las diferentes regiones del cuerpo, pies, piernas, pelvis, abdomen, tórax, cuello, cabeza; en la medida que se visualiza cada región se relajan los respectivos músculos.
 Una vez en relajacón se dirige la atención a los pensamientos y emociones que llegan a la mente. No desarrollar esos pensamientos, simplemente observarlos y dejar que vayan fluyendo, lo mismo con las emociones. 
 
+

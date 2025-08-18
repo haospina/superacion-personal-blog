@@ -72,3 +72,4 @@ Lejos de excluir la ciencia, el principio del mentalismo se vuelve aún más pod
 - Los Tres Iniciados. (1995). *El Kybalión: Filosofía hermética del antiguo Egipto y Grecia*. Ediciones Paidós Ibérica. (Obra original publicada en 1908).  
 - Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.  
 - Vygotsky, L. S. (2000). *Pensamiento y lenguaje*. Crítica.  
+
