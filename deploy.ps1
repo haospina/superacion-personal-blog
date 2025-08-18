@@ -1,19 +1,19 @@
 # deploy.ps1
-# Borra docs/, regenera el sitio y sube cambios a GitHub
 
-Write-Host "🧹 Borrando carpeta docs..."
-Remove-Item -Recurse -Force .\docs
+# Borrar la carpeta docs/
+if (Test-Path docs) {
+    Remove-Item -Recurse -Force docs
+}
 
-Write-Host "⚙️ Generando sitio con Hugo..."
+# Generar el sitio en docs/
 hugo -d docs
 
-Write-Host "📦 Agregando cambios a Git..."
+# Añadir cambios a Git
 git add -A
 
-$commitMessage = "Actualización automática del sitio Hugo"
-git commit -m $commitMessage
+# Crear commit con la fecha/hora como mensaje
+$commitMessage = "Actualización automática: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+git commit -m "$commitMessage"
 
-Write-Host "🚀 Subiendo cambios a GitHub..."
+# Subir al repositorio
 git push origin master
-
-Write-Host "✅ Sitio actualizado con éxito"
