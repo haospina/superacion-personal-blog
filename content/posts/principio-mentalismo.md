@@ -1,7 +1,7 @@
 ---
 title: "El principio mental"
 date: 2025-07-11
-categories: ["principios"]
+categories: ["Principios"]
 tags: ["Mentalismo"]
 draft: false
 ---
