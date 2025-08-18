@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Identidad on Blog Superación Personal</title>
-    <link>http://localhost:1313/tags/identidad/</link>
+    <link>https://superacion.www-haosp.org/tags/identidad/</link>
     <description>Recent content in Identidad on Blog Superación Personal</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>es</language>
     <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/identidad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://superacion.www-haosp.org/tags/identidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vivir para servir</title>
-      <link>http://localhost:1313/posts/ser-social/</link>
+      <link>https://superacion.www-haosp.org/posts/ser-social/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ser-social/</guid>
+      <guid>https://superacion.www-haosp.org/posts/ser-social/</guid>
       <description>&lt;p&gt;Vivir en sociedad implica la cooperación, la empatía y la ayuda al otro; el ser social es inherente a la vida.&lt;/p&gt;</description>
     </item>
   </channel>

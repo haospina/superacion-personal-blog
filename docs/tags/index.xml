@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Blog Superación Personal</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://superacion.www-haosp.org/tags/</link>
     <description>Recent content in Tags on Blog Superación Personal</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>es</language>
     <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://superacion.www-haosp.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuerpo</title>
-      <link>http://localhost:1313/tags/cuerpo/</link>
+      <link>https://superacion.www-haosp.org/tags/cuerpo/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cuerpo/</guid>
+      <guid>https://superacion.www-haosp.org/tags/cuerpo/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoción</title>
-      <link>http://localhost:1313/tags/emoci%C3%B3n/</link>
+      <link>https://superacion.www-haosp.org/tags/emoci%C3%B3n/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emoci%C3%B3n/</guid>
+      <guid>https://superacion.www-haosp.org/tags/emoci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Identidad</title>
-      <link>http://localhost:1313/tags/identidad/</link>
+      <link>https://superacion.www-haosp.org/tags/identidad/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/identidad/</guid>
+      <guid>https://superacion.www-haosp.org/tags/identidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Relaciones</title>
-      <link>http://localhost:1313/tags/relaciones/</link>
+      <link>https://superacion.www-haosp.org/tags/relaciones/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/relaciones/</guid>
+      <guid>https://superacion.www-haosp.org/tags/relaciones/</guid>
       <description></description>
     </item>
     <item>
       <title>Sociedad</title>
-      <link>http://localhost:1313/tags/sociedad/</link>
+      <link>https://superacion.www-haosp.org/tags/sociedad/</link>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sociedad/</guid>
+      <guid>https://superacion.www-haosp.org/tags/sociedad/</guid>
       <description></description>
     </item>
     <item>
       <title>Autoobservación</title>
-      <link>http://localhost:1313/tags/autoobservaci%C3%B3n/</link>
+      <link>https://superacion.www-haosp.org/tags/autoobservaci%C3%B3n/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/autoobservaci%C3%B3n/</guid>
+      <guid>https://superacion.www-haosp.org/tags/autoobservaci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Generalidades</title>
-      <link>http://localhost:1313/tags/generalidades/</link>
+      <link>https://superacion.www-haosp.org/tags/generalidades/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/generalidades/</guid>
+      <guid>https://superacion.www-haosp.org/tags/generalidades/</guid>
       <description></description>
     </item>
     <item>
       <title>Metacognición</title>
-      <link>http://localhost:1313/tags/metacognici%C3%B3n/</link>
+      <link>https://superacion.www-haosp.org/tags/metacognici%C3%B3n/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metacognici%C3%B3n/</guid>
+      <guid>https://superacion.www-haosp.org/tags/metacognici%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Mentalismo</title>
-      <link>http://localhost:1313/tags/mentalismo/</link>
+      <link>https://superacion.www-haosp.org/tags/mentalismo/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mentalismo/</guid>
+      <guid>https://superacion.www-haosp.org/tags/mentalismo/</guid>
       <description></description>
     </item>
   </channel>

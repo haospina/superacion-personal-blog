@@ -2,78 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://superacion.www-haosp.org/categories/</loc>
     <lastmod>2025-08-16T18:41:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ser-social/</loc>
-    <lastmod>2025-08-16T18:41:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/sexualidad-humana/</loc>
-    <lastmod>2025-08-16T18:41:12-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/autoconciencia/</loc>
-    <lastmod>2025-08-16T18:40:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/principios/</loc>
-    <lastmod>2025-08-16T18:38:46-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cuerpo/</loc>
+    <loc>https://superacion.www-haosp.org/tags/cuerpo/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emoci%C3%B3n/</loc>
+    <loc>https://superacion.www-haosp.org/tags/emoci%C3%B3n/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/identidad/</loc>
+    <loc>https://superacion.www-haosp.org/tags/identidad/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://superacion.www-haosp.org/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://superacion.www-haosp.org/posts/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/relaciones/</loc>
+    <loc>https://superacion.www-haosp.org/tags/relaciones/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sexualidad-humana/</loc>
+    <loc>https://superacion.www-haosp.org/posts/sexualidad-humana/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sociedad/</loc>
+    <loc>https://superacion.www-haosp.org/tags/sociedad/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://superacion.www-haosp.org/tags/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ser-social/</loc>
+    <loc>https://superacion.www-haosp.org/posts/ser-social/</loc>
     <lastmod>2025-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/autoconocimiento/</loc>
+    <loc>https://superacion.www-haosp.org/categories/autoconocimiento/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/autoobservaci%C3%B3n/</loc>
+    <loc>https://superacion.www-haosp.org/tags/autoobservaci%C3%B3n/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/generalidades/</loc>
+    <loc>https://superacion.www-haosp.org/tags/generalidades/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-relajacion/</loc>
+    <loc>https://superacion.www-haosp.org/posts/la-relajacion/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/metacognici%C3%B3n/</loc>
+    <loc>https://superacion.www-haosp.org/tags/metacognici%C3%B3n/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/observacion-autoobservacion/</loc>
+    <loc>https://superacion.www-haosp.org/posts/observacion-autoobservacion/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/principio-mentalismo/</loc>
+    <loc>https://superacion.www-haosp.org/posts/principio-mentalismo/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mentalismo/</loc>
+    <loc>https://superacion.www-haosp.org/tags/mentalismo/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/comienzo/</loc>
-    <lastmod>2025-07-10T18:11:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://superacion.www-haosp.org/about/</loc>
   </url>
 </urlset>
