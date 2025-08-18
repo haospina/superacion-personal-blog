@@ -1,0 +1,44 @@
+baseURL = "https://www-haosp.org/"
+languageCode = "es"
+title = "Blog de Superación Personal"
+theme = "PaperMod"
+
+paginate = 10
+
+[params]
+  author = "Héctor Ospina"
+  description = "Reflexiones sobre principios, autoconciencia, sexualidad humana y vida social."
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[menu]
+  [[menu.main]]
+    identifier = "principios"
+    name = "Principios"
+    url = "/categories/principios/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "autoconciencia"
+    name = "Autoconciencia"
+    url = "/categories/autoconciencia/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "sexualidad"
+    name = "Sexualidad Humana"
+    url = "/categories/sexualidad-humana/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "social"
+    name = "Vida Social"
+    url = "/categories/vida-social/"
+    weight = 4
