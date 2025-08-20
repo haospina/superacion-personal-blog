@@ -3,7 +3,8 @@ languageCode = "es"
 title = "Blog de Superación Personal"
 theme = "PaperMod"
 
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   author = "Héctor Ospina"
