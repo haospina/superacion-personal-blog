@@ -2,6 +2,8 @@ baseURL = "https://www-haosp.org/"
 languageCode = "es"
 title = "Blog de Superación Personal"
 theme = "PaperMod"
+publishDir = "."
+
 
 [pagination]
   pagerSize = 10
