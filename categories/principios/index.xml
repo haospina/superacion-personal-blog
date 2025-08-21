@@ -1,33 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Principios on Blog Superación Personal</title>
-    <link>https://superacion.www-haosp.org/categories/principios/</link>
-    <description>Recent content in Principios on Blog Superación Personal</description>
+    <title>principios on Blog de Superación Personal</title>
+    <link>https://www-haosp.org/categories/principios/</link>
+    <description>Recent content in principios on Blog de Superación Personal</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://superacion.www-haosp.org/categories/principios/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>La relajación</title>
-      <link>https://superacion.www-haosp.org/posts/la-relajacion/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://superacion.www-haosp.org/posts/la-relajacion/</guid>
-      <description>&lt;h1 id=&#34;la-relajación&#34;&gt;La relajación&lt;/h1&gt;
-&lt;p&gt;La relajación es lo opuesto a la tensión; la tensión o el estrés provoca la contracción de los músculos, lo cual a su vez ocasiona estrechamiento de algunas estructuras como los vasos arteriales de mediano calibre, llevando como consecuencia a disminuir el riego arterial de los tejidos y células.&lt;/p&gt;
-&lt;p&gt;Por su parte, la relajación ocasiona el efecto contrario, es decir, permite que las arterias lleven fluido sanguíneo con mayor facilidad a los vasos arteriales de menor calibre haciendo una mejor irrigación periférica.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>El principio mental</title>
-      <link>https://superacion.www-haosp.org/posts/principio-mentalismo/</link>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://superacion.www-haosp.org/posts/principio-mentalismo/</guid>
-      <description>&lt;h1 id=&#34;el-principio-del-mentalismo-ciencia-y-cultura-de-una-realidad-en-construcción-permanente&#34;&gt;El Principio del Mentalismo: Ciencia y cultura de una realidad en construcción permanente&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;El TODO es Mente; el universo es mental.&amp;rdquo;&lt;br&gt;
-— Los Tres Iniciados, &amp;ldquo;El Kybalión&amp;rdquo; (1908/1995)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
-&lt;p&gt;El primero de los principios enunciados por &lt;em&gt;El Kybalión&lt;/em&gt;, conocido como el &lt;strong&gt;Principio del Mentalismo&lt;/strong&gt;, sostiene que la mente es la sustancia fundamental del universo, no solo como facultad del pensamiento individual, sino como la base de toda existencia: todo lo que vemos, tocamos y experimentamos sería, en último término, una manifestación mental (Los Tres Iniciados, 1995).&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://www-haosp.org/categories/principios/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
