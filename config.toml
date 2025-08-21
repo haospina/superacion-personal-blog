@@ -27,9 +27,9 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    identifier = "autoconciencia"
-    name = "Autoconciencia"
-    url = "/categories/autoconciencia/"
+    identifier = "autoconocimiento"
+    name = "Autoconocimiento"
+    url = "/categories/autoconocimiento/"
     weight = 2
 
   [[menu.main]]
@@ -39,7 +39,13 @@ theme = "PaperMod"
     weight = 3
 
   [[menu.main]]
-    identifier = "social"
-    name = "Vida Social"
-    url = "/categories/vida-social/"
+    identifier = "ser-social"
+    name = "Ser social"
+    url = "/categories/ser-social/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "acerca-de"
+    name = "Acerca de"
+    url = "/about/"
     weight = 4

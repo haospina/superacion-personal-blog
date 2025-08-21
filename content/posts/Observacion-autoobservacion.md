@@ -2,7 +2,7 @@
 title: "Principio de causa y efecto: toda acción tiene su reacción"
 date: 2025-08-20
 draft: false
-categories: ["sexualidad-humana"]
+categories: ["autoconocimiento"]
 tags: ["crecimiento personal", "ciencia", "cultura", "psicología", "neurociencia", "filosofía","Salud integral"]
 ---
 

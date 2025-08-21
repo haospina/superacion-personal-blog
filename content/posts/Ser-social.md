@@ -2,7 +2,7 @@
 title: "El autoconocimiento es una construcción social"
 date: 2025-08-20
 draft: false
-categories: ["principios"]
+categories: ["ser-social"]
 tags: ["crecimiento personal", "ciencia", "cultura", "psicología", "neurociencia", "filosofía","Salud integral"]
 ---
 
