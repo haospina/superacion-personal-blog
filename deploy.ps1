@@ -1,47 +1,35 @@
-# deploy.ps1 — Deploy a gh-pages/root sin repos anidados ni publishDir="."
-$ErrorActionPreference = "Stop"
+# deploy.ps1
+Write-Host "🚀 Iniciando despliegue con Hugo..."
 
-Write-Host "🧹 Generando sitio con Hugo en ./public ..."
-hugo -D -d public
+# 1. Construir el sitio con Hugo
+hugo
 
-# Excluir del espejo: tus carpetas/archivos de código que NO deben borrarse
-$excludeDirs = @(".git", ".github", "public", "content", "layouts", "themes", "archetypes", "resources", "static", "scripts")
-$excludeFiles = @("config.toml","config.yaml","config.yml","deploy.ps1","README.md","LICENSE")
+# 2. Verificar si el build fue exitoso
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "❌ Error al construir el sitio con Hugo."
+    exit $LASTEXITCODE
+}
 
-# Construye los argumentos /XD y /XF
-$xdArgs = @()
-foreach ($d in $excludeDirs) { $xdArgs += @("/XD", $d) }
-$xfArgs = @()
-foreach ($f in $excludeFiles) { $xfArgs += @("/XF", $f) }
+# 3. Copiar el archivo CNAME al directorio public/
+$CNAME_PATH = "CNAME"
+if (Test-Path $CNAME_PATH) {
+    Copy-Item $CNAME_PATH -Destination "public/CNAME" -Force
+    Write-Host "✅ Archivo CNAME copiado a public/"
+} else {
+    Write-Host "⚠️ No se encontró el archivo CNAME en la raíz del repo."
+}
 
-Write-Host "📦 Copiando build a la raíz (gh-pages/root) ..."
-# /MIR = espejo; /E = subdirs; excluimos fuente y metadatos para no tocarlos
-robocopy "public" "." /MIR /E /NFL /NDL /NJH /NJS /NP $xdArgs $xfArgs | Out-Null
+# 4. Ir al directorio public/ y hacer push a gh-pages
+cd public
+if (!(Test-Path ".git")) {
+    git init
+    git checkout -b gh-pages
+}
 
-# (Opcional) limpia la carpeta public para que no se acumule
-# Remove-Item -Recurse -Force public
-
-# Git commit & push
-Write-Host "📌 Preparando commit ..."
 git add -A
-$ts = Get-Date -Format "yyyy-MM-dd HH:mm"
-try {
-  git commit -m "🚀 Deploy a gh-pages/root ($ts)" | Out-Null
-} catch {
-  Write-Host "✔️ Nada nuevo para commitear."
-}
+git commit -m "Deploy automático $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+git push -f origin gh-pages
 
-Write-Host "⬆️ Haciendo push a origin/gh-pages ..."
-# Usa push normal; si está detrás, reintenta con --force-with-lease
-$pushOK = $true
-try {
-  git push origin gh-pages --force 
-} catch {
-  $pushOK = $false
-}
-if (-not $pushOK) {
-  Write-Host "↪️ Reintentando con --force-with-lease ..."
-  git push origin gh-pages --force-with-lease
-}
+cd ..
 
-Write-Host "✅ Deploy listo. Revisa GitHub Pages (gh-pages / root)."
+Write-Host "✅ Deploy listo. Revisa GitHub Pages (branch gh-pages)."
