@@ -35,7 +35,7 @@ Write-Host "⬆️ Haciendo push a origin/gh-pages ..."
 # Usa push normal; si está detrás, reintenta con --force-with-lease
 $pushOK = $true
 try {
-  git push origin gh-pages
+  git push origin gh-pages --force 
 } catch {
   $pushOK = $false
 }
