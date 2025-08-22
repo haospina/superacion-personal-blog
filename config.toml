@@ -2,8 +2,7 @@ baseURL = "https://www-haosp.org/"
 languageCode = "es"
 title = "Blog de Superación Personal"
 theme = "PaperMod"
-publishDir = "."
-
+publishDir = "public"
 
 [pagination]
   pagerSize = 10
@@ -15,6 +14,10 @@ publishDir = "."
   ShowPostNavLinks = true
   ShowShareButtons = true
   ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowWordCount = true
+  ShowToc = true
+  defaultTheme = "auto"
 
 [taxonomies]
   category = "categories"
@@ -37,7 +40,7 @@ publishDir = "."
   [[menu.main]]
     identifier = "sexualidad"
     name = "Sexualidad Humana"
-    url = "/categories/sexualidad-humana/"
+    url = "/categories/sexualidad/"
     weight = 3
 
   [[menu.main]]
@@ -50,4 +53,4 @@ publishDir = "."
     identifier = "acerca-de"
     name = "Acerca de"
     url = "/about/"
-    weight = 4
+    weight = 5
