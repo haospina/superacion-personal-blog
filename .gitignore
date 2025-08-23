@@ -1,2 +1,17 @@
+# Hugo build
 /public
 !/public/CNAME
+/resources
+/.hugo_build.lock
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temporales
+*.log
+
+
+
