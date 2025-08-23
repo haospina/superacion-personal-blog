@@ -2,78 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/autoconocimiento/</loc>
+    <loc>https://www-haosp.org/</loc>
     <lastmod>2025-08-23T18:04:37-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www-haosp.org/post/</loc>
     <lastmod>2025-08-23T18:04:37-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
+    <loc>https://www-haosp.org/categories/autoconocimiento/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ciencia/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
+    <loc>https://www-haosp.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/crecimiento-personal/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
+    <loc>https://www-haosp.org/categories/principios/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cultura/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
+    <loc>https://www-haosp.org/categories/ser-social/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/filosofia/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
+    <loc>https://www-haosp.org/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/metacognicion/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
+    <loc>https://www-haosp.org/categories/sexualidad/</loc>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/salud-integral/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-23T18:04:37-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/ser-social/</loc>
-    <lastmod>2025-08-23T18:01:24-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/ser-social/</loc>
-    <lastmod>2025-08-23T18:01:24-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/sexualidad/</loc>
-    <lastmod>2025-08-23T17:54:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/sexualidad/</loc>
-    <lastmod>2025-08-23T17:54:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/ritmo/</loc>
-    <lastmod>2025-08-23T17:45:11-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/principios/</loc>
-    <lastmod>2025-08-23T17:45:11-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/generacion/</loc>
-    <lastmod>2025-08-23T17:15:35-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/polaridad/</loc>
-    <lastmod>2025-08-23T17:15:35-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/correspondencia/</loc>
-    <lastmod>2025-08-23T17:15:34-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/mentalismo/</loc>
-    <lastmod>2025-08-23T17:15:34-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/vibracion/</loc>
-    <lastmod>2025-08-23T17:15:34-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/superacion-personal/</loc>
-    <lastmod>2025-08-23T17:15:34-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/causa-y-efecto/</loc>
-    <lastmod>2025-08-23T16:33:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://www-haosp.org/tags/</loc>
   </url>
 </urlset>
