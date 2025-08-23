@@ -1,5 +1,5 @@
 ---
-title: "Sexualidad"
+title: "Sexualidad y sus expresiones"
 date: 2025-08-23T17:54:39-05:00
 draft: true
 tags: ["crecimiento personal","cultura","ciencia","filosofia","salud integral"]

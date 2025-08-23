@@ -1,5 +1,5 @@
 ---
-title: "Ser Social"
+title: "Ser Social y superación personal"
 date: 2025-08-23T18:01:24-05:00
 draft: true
 tags: ["crecimiento personal","cultura","ciencia","filosofia","salud integral"]
