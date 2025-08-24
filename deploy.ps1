@@ -1,35 +1,42 @@
 # deploy.ps1
-Write-Host "🚀 Iniciando despliegue con Hugo..."
+# Script de despliegue para Hugo + GitHub Pages (rama gh-pages)
 
-# 1. Construir el sitio con Hugo
+Write-Host "🚀 Iniciando proceso de deploy..." -ForegroundColor Cyan
+
+# 1. Generar el sitio con Hugo
+Write-Host "📦 Generando sitio con Hugo..."
 hugo
 
-# 2. Verificar si el build fue exitoso
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "❌ Error al construir el sitio con Hugo."
-    exit $LASTEXITCODE
+# 2. Verificar que la carpeta public exista
+if (!(Test-Path "public")) {
+    Write-Host "❌ ERROR: No se encontró la carpeta 'public'. Revisa la compilación de Hugo." -ForegroundColor Red
+    exit 1
 }
 
-# 3. Copiar el archivo CNAME al directorio public/
-$CNAME_PATH = "CNAME"
-if (Test-Path $CNAME_PATH) {
-    Copy-Item $CNAME_PATH -Destination "public/CNAME" -Force
-    Write-Host "✅ Archivo CNAME copiado a public/"
+# 3. Asegurar que el archivo CNAME esté dentro de public/
+$customDomain = "www-haosp.org"
+$CNAMEPath = "public/CNAME"
+
+if (!(Test-Path $CNAMEPath)) {
+    Write-Host "📝 Creando archivo CNAME con el dominio: $customDomain"
+    Set-Content -Path $CNAMEPath -Value $customDomain
 } else {
-    Write-Host "⚠️ No se encontró el archivo CNAME en la raíz del repo."
+    Write-Host "✅ Archivo CNAME ya existe en public/"
 }
 
-# 4. Ir al directorio public/ y hacer push a gh-pages
-cd public
-if (!(Test-Path ".git")) {
-    git init
-    git checkout -b gh-pages
-}
+# 4. Entrar a carpeta public
+Set-Location public
 
+# 5. Configuración para evitar advertencias LF/CRLF en Windows
+git config core.autocrlf false
+
+# 6. Agregar, commitear y pushear
+Write-Host "📡 Subiendo cambios a gh-pages..."
 git add -A
-git commit -m "Deploy automático $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+git commit -m "🚀 Deploy automático $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
 git push -f origin gh-pages
 
-cd ..
+# 7. Volver al directorio raíz
+Set-Location ..
 
-Write-Host "✅ Deploy listo. Revisa GitHub Pages (branch gh-pages)."
+Write-Host "✅ Deploy completo. Revisa tu sitio en GitHub Pages." -ForegroundColor Green
