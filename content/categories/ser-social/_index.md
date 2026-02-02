@@ -1,8 +1,8 @@
 ---
 title: "ser-social"
-description: "Reflexiones la naturaleza social del ser humano"
+categories: ["ser-social"]
+description: "Reflexiones sobre la naturaleza social del ser humano"
 draft: false
-
 ---
 
 # Ser social

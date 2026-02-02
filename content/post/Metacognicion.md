@@ -1,9 +1,9 @@
 ---
 title: "Metacognición"
 date: 2025-08-23T18:04:37-05:00
-draft: true
+draft: false
 tags: ["crecimiento personal","cultura","ciencia","filosofia","salud integral"]
-categories: [autoconocimiento]
+categories: ["autoconocimiento"]
 description: ""
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "salud integral"
+categories: ["salud-integral"]
 description: "investigacion para la salud integral"
 draft: false
 ---
