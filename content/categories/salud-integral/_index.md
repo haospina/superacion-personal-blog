@@ -1,7 +1,7 @@
 ---
 title: "salud integral"
 description: "investigacion para la salud integral"
-draft: true
+draft: false
 ---
 
 # Bienvenidos estudiantes de Salud Integral I 2026A
