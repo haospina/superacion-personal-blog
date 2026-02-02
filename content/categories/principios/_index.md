@@ -1,5 +1,7 @@
 ---
 title: "principios"
-description: "Reflexiones sobre los principios del Kybalion"
+description: "Reflexiones sobre principios, leyes y normas"
 ---
+
+
 

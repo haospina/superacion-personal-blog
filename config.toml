@@ -8,7 +8,7 @@ publishDir = "public"
   pagerSize = 10
 
 [params]
-  author = "Héctor Ospina"
+  author = "Héctor Augusto Ospina Angarita"
   description = "Reflexiones sobre principios, autoconciencia, sexualidad humana y vida social."
   ShowReadingTime = true
   ShowPostNavLinks = true
